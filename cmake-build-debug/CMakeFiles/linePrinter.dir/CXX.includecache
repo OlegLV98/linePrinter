@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/oleglesnoy/Desktop/linePrinter/main.cpp
+iostream
+-
+ncurses.h
+-
+cmath
+-
+vector
+-
+
